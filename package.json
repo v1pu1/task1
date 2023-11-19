@@ -13,9 +13,9 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build", 
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
@@ -40,6 +40,5 @@
   },
   "devDependencies": {
     "gh-pages": "^6.1.0"
-  },
-  "homepage": "https://v1pu1.github.io/task1"
+  }
 }
