@@ -1,0 +1,196 @@
+{
+  "pending": [
+    {
+      "user": "Mark Johnson",
+      "riskLevel": "Low",
+      "triggerReason": "Hard Flag",
+      "dateAddedOn": "2023-11-15",
+      "previouslyReviewed": "Yes",
+      "userEmail": "mark.johnson@example.com",
+      "inQueueFor": "9 days"
+    },
+    {
+      "user": "Emily White",
+      "riskLevel": "Medium",
+      "triggerReason": "Temp Flag",
+      "dateAddedOn": "2023-11-16",
+      "previouslyReviewed": "No",
+      "userEmail": "emily.white@example.com",
+      "inQueueFor": "8 days"
+    },
+    {
+      "user": "Alex Smith",
+      "riskLevel": "High",
+      "triggerReason": "Restricted Flag",
+      "dateAddedOn": "2023-11-17",
+      "previouslyReviewed": "Yes",
+      "userEmail": "alex.smith@example.com",
+      "inQueueFor": "7 days"
+    },
+    {
+      "user": "Olivia Brown",
+      "riskLevel": "Medium",
+      "triggerReason": "Un Flag",
+      "dateAddedOn": "2023-11-18",
+      "previouslyReviewed": "No",
+      "userEmail": "olivia.brown@example.com",
+      "inQueueFor": "6 days"
+    },
+    {
+      "user": "James Green",
+      "riskLevel": "Low",
+      "triggerReason": "Reviewed",
+      "dateAddedOn": "2023-11-19",
+      "previouslyReviewed": "Yes",
+      "userEmail": "james.green@example.com",
+      "inQueueFor": "5 days"
+    },
+    {
+      "user": "Sophie Turner",
+      "riskLevel": "Low",
+      "triggerReason": "Hard Flag",
+      "dateAddedOn": "2023-11-20",
+      "previouslyReviewed": "Yes",
+      "userEmail": "sophie.turner@example.com",
+      "inQueueFor": "4 days"
+    },
+    {
+      "user": "Thomas Wilson",
+      "riskLevel": "Medium",
+      "triggerReason": "Temp Flag",
+      "dateAddedOn": "2023-11-21",
+      "previouslyReviewed": "No",
+      "userEmail": "thomas.wilson@example.com",
+      "inQueueFor": "3 days"
+    },
+    {
+      "user": "Victoria Brown",
+      "riskLevel": "High",
+      "triggerReason": "Restricted Flag",
+      "dateAddedOn": "2023-11-22",
+      "previouslyReviewed": "Yes",
+      "userEmail": "victoria.brown@example.com",
+      "inQueueFor": "2 days"
+    },
+    {
+      "user": "William Green",
+      "riskLevel": "Medium",
+      "triggerReason": "Un Flag",
+      "dateAddedOn": "2023-11-23",
+      "previouslyReviewed": "No",
+      "userEmail": "william.green@example.com",
+      "inQueueFor": "1 day"
+    },
+    {
+      "user": "Xavier Smith",
+      "riskLevel": "Low",
+      "triggerReason": "Reviewed",
+      "dateAddedOn": "2023-11-24",
+      "previouslyReviewed": "Yes",
+      "userEmail": "xavier.smith@example.com",
+      "inQueueFor": "0 days"
+    }
+  ],
+  "completed": [
+    {
+      "user": "Olivia Brown",
+      "userEmail": "olivia.brown@example.com",
+      "riskLevel": "Low",
+      "actionReason": "Hard Flag",
+      "timeToClose": "4 days",
+      "dateAddedOn": "2023-11-24",
+      "actionTakenBy": "Sophie",
+      "actionTakenByEmail": "sophie@example.com"
+    },
+    {
+      "user": "Alex Smith",
+      "userEmail": "alex.smith@example.com",
+      "riskLevel": "Medium",
+      "actionReason": "Temp Flag",
+      "timeToClose": "6 days",
+      "dateAddedOn": "2023-11-22",
+      "actionTakenBy": "Thomas",
+      "actionTakenByEmail": "thomas@example.com"
+    },
+    {
+      "user": "James Green",
+      "userEmail": "james.green@example.com",
+      "riskLevel": "High",
+      "actionReason": "Restricted Flag",
+      "timeToClose": "3 days",
+      "dateAddedOn": "2023-11-18",
+      "actionTakenBy": "Victoria",
+      "actionTakenByEmail": "victoria@example.com"
+    },
+    {
+      "user": "Victoria Turner",
+      "userEmail": "victoria.turner@example.com",
+      "riskLevel": "Medium",
+      "actionReason": "Un Flag",
+      "timeToClose": "2 days",
+      "dateAddedOn": "2023-11-15",
+      "actionTakenBy": "William",
+      "actionTakenByEmail": "william@example.com"
+    },
+    {
+      "user": "William Wilson",
+      "userEmail": "william.wilson@example.com",
+      "riskLevel": "Low",
+      "actionReason": "Reviewed",
+      "timeToClose": "5 days",
+      "dateAddedOn": "2023-11-12",
+      "actionTakenBy": "Xavier",
+      "actionTakenByEmail": "xavier@example.com"
+    },
+    {
+      "user": "Sophie Turner",
+      "userEmail": "sophie.turner@example.com",
+      "riskLevel": "Low",
+      "actionReason": "Hard Flag",
+      "timeToClose": "3 days",
+      "dateAddedOn": "2023-11-28",
+      "actionTakenBy": "Thomas",
+      "actionTakenByEmail": "thomas@example.com"
+    },
+    {
+      "user": "Thomas Wilson",
+      "userEmail": "thomas.wilson@example.com",
+      "riskLevel": "Medium",
+      "actionReason": "Temp Flag",
+      "timeToClose": "7 days",
+      "dateAddedOn": "2023-11-26",
+      "actionTakenBy": "Victoria",
+      "actionTakenByEmail": "victoria@example.com"
+    },
+    {
+      "user": "Victoria Brown",
+      "userEmail": "victoria.brown@example.com",
+      "riskLevel": "High",
+      "actionReason": "Restricted Flag",
+      "timeToClose": "5 days",
+      "dateAddedOn": "2023-11-22",
+      "actionTakenBy": "William",
+      "actionTakenByEmail": "william@example.com"
+    },
+    {
+      "user": "William Green",
+      "userEmail": "william.green@example.com",
+      "riskLevel": "Medium",
+      "actionReason": "Un Flag",
+      "timeToClose": "2 days",
+      "dateAddedOn": "2023-11-19",
+      "actionTakenBy": "Xavier",
+      "actionTakenByEmail": "xavier@example.com"
+    },
+    {
+      "user": "Xavier Smith",
+      "userEmail": "xavier.smith@example.com",
+      "riskLevel": "Low",
+      "actionReason": "Reviewed",
+      "timeToClose": "4 days",
+      "dateAddedOn": "2023-11-16",
+      "actionTakenBy": "Sophie",
+      "actionTakenByEmail": "sophie@example.com"
+    }
+  ]
+}
